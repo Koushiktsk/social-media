@@ -1,7 +1,7 @@
 
 ***
 
-# Social Media Backend
+# Social Media Backend(EchoServerAPI)
 
 A scalable social media backend built with Node.js, Express, and MongoDB. Modular microservices architecture powers user, post, comment, story, and messaging features. JWT authentication and robust error handling included.
 
